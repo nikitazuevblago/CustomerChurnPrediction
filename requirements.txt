@@ -1,0 +1,5 @@
+# Python 3.10.14
+# Dependencies installed with pip
+
+pyspark==3.5.1
+numpy==2.0.1
